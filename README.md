@@ -1,1 +1,3 @@
-"# Pathfinding_HMM" 
+"Pathfinding_HMM" 
+
+This project explored the use of Hidden Markov Models (HMMs) in pathfinding, offering a probabilistic alternative to traditional deterministic algorithms like A* and Dijkstra's. By integrating HMMs, the study introduced adaptability in navigating complex and uncertain environments, allowing for the exploration of multiple near-optimal paths. Using the Expectation-Maximisation (EM) algorithm to optimize the transition matrix, the research demonstrated HMM's effectiveness in balancing directed navigation and flexibility. Comparative analysis with A* highlighted the limitations of heuristic-based methods in dynamic settings, underscoring the advantages of a probabilistic approach for more adaptable and cost-effective pathfinding.
