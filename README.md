@@ -18,12 +18,12 @@ The study demonstrates the application of HMMs in grid-based and hexagonal layou
  - The project explored two optimization scenarios: one focusing on vertex costs and the other on edge costs.
  - The HMM-based approach demonstrated superior performance in environments where costs are dynamically adjusted, proving its robustness in avoiding high-cost areas.
 
-3.Larger Scale Implementations:
+3. Larger Scale Implementations:
 
  - The application of HMMs on more complex grids, including hexagonal layouts with random perturbations, showcased the model’s scalability and adaptability.
  - The introduction of Gaussian Mixture Models (GMMs) to determine vertex costs further enhanced the model’s effectiveness.
 
-4.Comparison with A*:
+4. Comparison with A*:
 
  - While the A* algorithm efficiently identified the shortest paths, it occasionally selected routes through high-cost areas.
  - In contrast, the HMM framework consistently avoided such paths, reinforcing its advantage in handling uncertainties and providing multiple near-optimal solutions.
